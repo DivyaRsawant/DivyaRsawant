@@ -1,8 +1,4 @@
-### Hi there 👋
-
-<!--
-**DivyaRsawant/DivyaRsawant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-👋 Hello World, I'm Divya!
+###👋 Hello World, I'm Divya!
 
 - 🔭 I’m currently working on data analysis, Power BI, SQL, Excel projects.
 - 🌱 I’m on a continuous learning, exploring advanced data analysis techniques.
